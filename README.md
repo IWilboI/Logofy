@@ -13,4 +13,4 @@ A command-line application to generate SVG logos based on user inputs.
 3. The generated SVG file `logo.svg` will be created in the root directory.
 4. Open `logo.svg` in a browser to view the generated logo.
 
-## Video Link
+## Video Link https://drive.google.com/file/d/1VOo-t1BMg_BpWNZO0yT6E-O9FwpsrQBk/view?usp=sharing
